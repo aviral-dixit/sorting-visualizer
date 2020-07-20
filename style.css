@@ -1,0 +1,18 @@
+div{
+
+  background-color: #201547;
+}
+button{
+  padding: 8px;
+  margin: 15px 10px;
+  background-color: #201547;
+  color: white;
+  border: 0px;
+}
+body{
+  margin: 0px;
+}
+canvas{
+  padding: 0px 10px;
+  background-color: #3f4441;
+}
